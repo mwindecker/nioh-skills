@@ -1,6 +1,9 @@
 # This is a skill planner for Nioh. 
 Intended for endgame at this time. I will continue to develop this project if there is interest or if I find a new feature to add. Feel free to fork and credit this project for your own use.
 
+##Resources:
+[Google Drive](https://drive.google.com/drive/folders/0B7hc6xCVbbSJcEZxMFM4VUxMdjQ)
+
 ##TODOs (in no particular order):
 - collect skill names and points
 - design frontend workflows
